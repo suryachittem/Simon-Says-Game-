@@ -38,15 +38,15 @@ The Simon Says Game is a simple yet challenging memory game. The game will show 
 
 🎯 How to Play
 
->Click anywhere or press a key to start the game.
+->Click anywhere or press a key to start the game.
 
->Watch the sequence of colors that light up.
+->Watch the sequence of colors that light up.
 
->Click the buttons in the exact same order.
+->Click the buttons in the exact same order.
 
->The sequence grows by one button each round.
+->The sequence grows by one button each round.
 
->If you click the wrong button, the game is over.
+->If you click the wrong button, the game is over.
 
 📂 Project Structure
 
